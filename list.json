@@ -1,0 +1,32 @@
+
+[
+  {
+  "game1": {
+    "id": "4",
+    "name": "myname",
+    "description": "myDescription",
+    "image": "linktoimage",
+    "publisher": "nintendo",
+    "console": "gamecube",
+    "releaseDate": "03-07-2003"
+  },
+
+  "game2": {
+    "id": "3",
+    "name": "myname",
+    "description": "myDescription",
+    "image": "linktoimage",
+    "publisher": "nintendo",
+    "console": "gamecube",
+    "releaseDate": "03-07-2003"
+  },
+    "game3": {
+    "id": "2",
+    "name": "myname",
+    "description": "myDescription",
+    "image": "linktoimage",
+    "publisher": "nintendo",
+    "console": "gamecube",
+    "releaseDate": "03-07-2003"
+  }
+  }]
